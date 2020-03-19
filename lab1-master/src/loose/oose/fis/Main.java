@@ -39,6 +39,6 @@ public class Main {
         pc2.adaugaProcesor(c3);
 
         System.out.println(pc2.proceseaza(documente));
-        System.out.println("Hello");
+        System.out.println("Hello1");
     }
 }
