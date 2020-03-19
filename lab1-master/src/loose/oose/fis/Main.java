@@ -41,5 +41,6 @@ public class Main {
 System.out.println("Buna ziua1");
 
         System.out.println(pc2.proceseaza(documente));
+        System.out.println("Hello4");
     }
 }
