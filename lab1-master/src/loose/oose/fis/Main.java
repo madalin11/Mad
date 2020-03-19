@@ -37,7 +37,7 @@ public class Main {
         ProcesorCompus pc2 = new ProcesorCompus();
         pc2.adaugaProcesor(pc1);
         pc2.adaugaProcesor(c3);
-
+System.out.println("Ceva");
         System.out.println(pc2.proceseaza(documente));
     }
 }
